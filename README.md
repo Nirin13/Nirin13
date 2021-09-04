@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nirin13
+- 👋 Hi, I’m Niranjan Nagabhushan
 - 👀 I’m interested in Dta Science, Data Analytics, Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML,DL,NLP 
